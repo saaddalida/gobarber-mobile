@@ -1,12 +1,12 @@
 # GoBarber Mobile
 
-The Meetapp application was build with React Native by using the API developed in this repository (<a href="https://github.com/saaddalida/gobarber-backend" target="_blank" rel="noopener noreferrer">Meetup Backend</a>).
+The Meetapp application was build with React Native by using the API developed in this repository (<a href="https://github.com/saaddalida/gobarber-backend" target="_blank" rel="noopener noreferrer">GoBarber Backend</a>).
 
 This application will be used by clients only and organizers will not have acess to the application.
 
 ### Running application
 
-To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js v10.16](https://nodejs.org) or higher + [Yarn v1.13](https://yarnpkg.com/en/) or higher installed on your computer and the [MeetApp API](https://github.com/saaddalida/meetapp-backend). From your command line:
+To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js v10.16](https://nodejs.org) or higher + [Yarn v1.13](https://yarnpkg.com/en/) or higher installed on your computer and the [GoBarber API](https://github.com/saaddalida/gobarber-backend). From your command line:
 
 ```bash
 # Clone this repository
